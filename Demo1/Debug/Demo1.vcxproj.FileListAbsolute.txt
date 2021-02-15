@@ -1,0 +1,2 @@
+D:\Assembly-Language\Demo1\Debug\Demo1.exe
+D:\Assembly-Language\Demo1\Debug\Demo1.pdb
